@@ -1,3 +1,3 @@
 #Protfolio
 
-Its my resume..!
+Its my resume...
